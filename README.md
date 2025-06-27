@@ -146,7 +146,7 @@ sudo apt install nlohmann-json3-dev
 ## 5 编译和运行
 
 ```
-git clone 
+git clone https://github.com/De-MingWu/ReactorFile.git
 
 cd ReactorFile
 
